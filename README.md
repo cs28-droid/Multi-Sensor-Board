@@ -1,4 +1,4 @@
-# Multi-Sensor-Board
+# Unified-Sensor-Board
 
 This is a Multi Sensor Board built using Arduino. This is an all in one sensing system built using 5 sensors.
 
